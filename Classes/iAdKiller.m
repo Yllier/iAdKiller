@@ -13,20 +13,19 @@
 
 static id (*orig_init)(id self, SEL sel);
 id my_init(id self, SEL sel) {
-	
 	NSLog(@"iAdKiller: init called");
+
+	[self dealloc];
 	
 	return nil;
 }
-
 
 
 static int (*orig_UIApplicationMain)(int argc, char *argv[], NSString *principalClassName, NSString *delegateClassName);
 int my_UIApplicationMain (int argc, char *argv[], NSString *principalClassName, NSString *delegateClassName) {
 	
 	MSHookMessageEx(objc_getClass("ADManager"), @selector(init), (IMP) my_init, (IMP *)&orig_init);
-	
-	return orig_UIApplicationMain(argc, argv, principalClassName, delegateClassName);
+		return orig_UIApplicationMain(argc, argv, principalClassName, delegateClassName);
 }
 
 
