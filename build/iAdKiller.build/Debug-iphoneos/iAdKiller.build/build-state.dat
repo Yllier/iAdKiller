@@ -1,7 +1,7 @@
 TiAdKiller
 v7
 r0
-t300364687.532739
+t300366540.456278
 cCheck dependencies
 cCpResource build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
 cProcessInfoPlistFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist iAdKiller-Info.plist
@@ -75,9 +75,9 @@ t1274935735
 s21497
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m
-c000000004C36FE980000000000000504
-t1278672536
-s1284
+c000000004C3703490000000000000A4D
+t1278673737
+s2637
 i<Foundation/Foundation.h>
 i"substrate.h"
 
@@ -91,44 +91,44 @@ i<objc/message.h>
 i<dlfcn.h>
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app
-t1278672247
+t1278673740
 s204
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app.dSYM
-t1278671887
+t1278673740
 s102
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist
-t1278671884
+t1278673659
 s753
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/PkgInfo
-t1278671884
+t1278673659
 s8
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist
-t1278671884
+t1278673659
 s485
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib
-t1278672247
-s9728
+t1278673740
+s9512
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.dylib.LinkFileList
-c000000004C36FC0C00000000000000EF
-t1278671884
+c000000004C3702FB00000000000000EF
+t1278673659
 s239
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.o
-t1278671886
-s9372
+t1278673740
+s9244
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/main.o
-t1278671886
+t1278673660
 s6432
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent
-t1278671887
+t1278673661
 s356
 
 N/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch
@@ -160,19 +160,19 @@ s880
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies300364684#300364684#0(0"0(0#1#0"8617637376#0"0#
+lSLF07#2@18"Check dependencies300366540#300366540#0(0"0(0#1#0"8604728768#0"0#
 
 CCodeSign /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app
-s300364687.389926
-e300364687.532694
+s300366540.431175
+e300366540.456221
 r1
 xCodeSign
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app
-lSLF07#2@49"CodeSign build/Debug-iphoneos/iAdKiller.dylib.app300364687#300364687#0(0"0(0#0#76"/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app8602050944#618"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/ldid -f -s _X_ --resource-rules=/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist --entitlements /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
+lSLF07#2@49"CodeSign build/Debug-iphoneos/iAdKiller.dylib.app300366540#300366540#0(0"0(0#0#76"/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app8601310464#618"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/ldid -f -s _X_ --resource-rules=/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist --entitlements /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
 
 CCompileC build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.o /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s300364686.517210
-e300364686.679930
+s300366540.315609
+e300366540.374098
 r1
 xCompileC
 xbuild/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.o
@@ -181,11 +181,11 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@63"Compile /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m300364686#300364686#0(0"0(0#0#55"/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m8617807456#1773"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources/armv6 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.o0#
+lSLF07#2@63"Compile /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m300366540#300366540#0(0"0(0#0#55"/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m8603004416#1773"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources/armv6 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.o0#
 
 CCompileC build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/main.o /Users/_X_/Dropbox/Coding/iAdKiller/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s300364686.515436
-e300364686.680161
+s300366459.502923
+e300366460.704647
 r1
 xCompileC
 xbuild/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/main.o
@@ -194,72 +194,62 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@50"Compile /Users/_X_/Dropbox/Coding/iAdKiller/main.m300364686#300364686#0(0"0(0#0#42"/Users/_X_/Dropbox/Coding/iAdKiller/main.m8601666496#1755"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources/armv6 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/main.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/main.o0#
+lSLF07#2@50"Compile /Users/_X_/Dropbox/Coding/iAdKiller/main.m300366459#300366460#0(0"0(0#0#42"/Users/_X_/Dropbox/Coding/iAdKiller/main.m8603264352#1755"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources/armv6 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/main.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/main.o0#
 
 CCpResource build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
-s300364684.686858
-e300364684.798990
+s300366459.433246
+e300366459.502418
 r1
 xCpResource
 xbuild/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
-lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist300364684#300364684#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8618074560#482"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist300366459#300366459#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist3770444610102323200#482"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
 
 CGenerateDSYMFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app.dSYM /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib
-s300364687.198372
-e300364687.319571
+s300366540.412447
+e300366540.428393
 r1
 xGenerateDSYMFile
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app.dSYM
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib
-lSLF07#2@119"GenerateDSYMFile build/Debug-iphoneos/iAdKiller.dylib.app.dSYM build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib300364687#300364687#0(0"0(0#0#92"/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib8603719872#377"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app.dSYM0#
+lSLF07#2@119"GenerateDSYMFile build/Debug-iphoneos/iAdKiller.dylib.app.dSYM build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib300366540#300366540#0(0"0(0#0#92"/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib8602702656#377"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app.dSYM0#
 
 CLd /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib normal armv6
-s300364686.680223
-e300364687.198245
+s300366540.374192
+e300366540.412333
 r1
 xLd
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib
 xnormal
 xarmv6
-lSLF07#2@97"Link /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib300364686#300364687#0(0"0(0#0#0"8617833728#897"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -L/Users/_X_/Dropbox/Coding/iAdKiller -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -filelist /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.dylib.LinkFileList -dead_strip -dynamiclib -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -lsubstrate -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib0#
+lSLF07#2@97"Link /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib300366540#300366540#0(0"0(0#0#0"8602847360#897"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -L/Users/_X_/Dropbox/Coding/iAdKiller -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -filelist /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/Objects-normal/armv6/iAdKiller.dylib.LinkFileList -dead_strip -dynamiclib -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -lsubstrate -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/iAdKiller.dylib0#
 
 CProcessInfoPlistFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist iAdKiller-Info.plist
-s300364684.689089
-e300364684.711937
+s300366459.469139
+e300366459.473143
 r1
 xProcessInfoPlistFile
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist
 xiAdKiller-Info.plist
-lSLF07#2@28"Process iAdKiller-Info.plist300364684#300364684#0(0"0(0#0#56"/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller-Info.plist8618175232#576"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iAdKiller-Info.plist -genpkginfo /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist0#
+lSLF07#2@28"Process iAdKiller-Info.plist300366459#300366459#0(0"0(0#0#56"/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller-Info.plist8604828704#576"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iAdKiller-Info.plist -genpkginfo /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/ResourceRules.plist -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app/Info.plist0#
 
 CProcessPCH /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch.gch iAdKiller_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-s300364684.799112
-e300364686.515054
-r1
-xProcessPCH
-x/var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch.gch
-xiAdKiller_Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile iAdKiller_Prefix.pch300364684#300364686#0(0"0(0#0#56"/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch8603416704#1654"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources/armv6 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/DerivedSources -c /Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch -o /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-cyewncrhusojlzanjgzrlpjagkwo/iAdKiller_Prefix.pch.gch0#
+r0
 
 CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent
-s300364687.331930
-e300364687.389778
+s300366461.396086
+e300366461.403551
 r1
 xProcessProductPackaging
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent
-lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent300364687#300364687#0(0"0(0#0#110"/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent8603804800#438"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent0#
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent300366461#300366461#0(0"0(0#0#110"/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent8603355968#438"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphoneos/iAdKiller.build/iAdKiller.dylib.xcent0#
 
 CTouch /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app
-s300364687.319659
-e300364687.331819
+s300366540.428480
+e300366540.431021
 r1
 xTouch
 x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app
-lSLF07#2@82"Touch /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app300364687#300364687#0(0"0(0#0#0"8620733792#266"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
+lSLF07#2@82"Touch /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app300366540#300366540#0(0"0(0#0#0"8602611872#266"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphoneos/iAdKiller.dylib.app0#
 
