@@ -329,7 +329,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>816C758A11E76A4A00535E3F</string>
+										<string>816C758B11E76FBA00535E3F</string>
 										<key>history</key>
 										<array>
 											<string>813529B811E714C000E9B3BA</string>
@@ -536,7 +536,6 @@
 	<array>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>811E1ECE11E66E2100FCA826</string>
-		<string>/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>33 216 988 662 0 0 1440 878 </string>

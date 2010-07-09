@@ -21,26 +21,7 @@ id my_init(id self, SEL sel) {
 }
 
 
-static int (*orig_UIApplicationMain)(int argc, char *argv[], NSString *principalClassName, NSString *delegateClassName);
-int my_UIApplicationMain (int argc, char *argv[], NSString *principalClassName, NSString *delegateClassName) {
-	
-	MSHookMessageEx(objc_getClass("ADManager"), @selector(init), (IMP) my_init, (IMP *)&orig_init);
-		return orig_UIApplicationMain(argc, argv, principalClassName, delegateClassName);
-}
-
-
-
 __attribute__((constructor)) static void FirewallInitialize() {
-	NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
-	NSString *currentBundleIdentifier = [[[NSBundle mainBundle] bundleIdentifier] lowercaseString];
-	if ([currentBundleIdentifier isEqualToString:@"com.apple.springboard"] != YES ||
-		currentBundleIdentifier == nil)
-		
-	{
-		NSLog(@"iAdKiller: hooking into %@", currentBundleIdentifier);
-		MSHookFunction((void *) &UIApplicationMain, (void *)&my_UIApplicationMain, (void **) &orig_UIApplicationMain);
-	}
-	
-	
-	[pool release];
+		NSLog(@"iAdKiller: hooking into %@", [[NSBundle mainBundle] bundleIdentifier]);
+		MSHookMessageEx(objc_getClass("ADManager"), @selector(init), (IMP) my_init, (IMP *)&orig_init);
 }
