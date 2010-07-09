@@ -1,0 +1,209 @@
+TiAdKiller
+v7
+r0
+t300364623.011929
+cCheck dependencies
+cProcessInfoPlistFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/Info.plist iAdKiller-Info.plist
+cProcessPCH /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch.gch iAdKiller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/main.o /Users/_X_/Dropbox/Coding/iAdKiller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.o /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C1FBD0B0000000000000132
+t1277148427
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach-o/nlist.h
+c000000004A4D4DFA00000000000033C0
+t1246580218
+s13248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/objc/message.h
+c000000004BFDF9F40000000000001B5D
+t1274935796
+s7005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/objc/runtime.h
+c000000004BFDF9F400000000000053F9
+t1274935796
+s21497
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m
+c000000004C36FBCC000000000000050E
+t1278671820
+s1294
+i<Foundation/Foundation.h>
+i"substrate.h"
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/Classes/substrate.h
+c000000004C36369800000000000033E2
+t1278621336
+s13282
+i<mach-o/nlist.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<dlfcn.h>
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app
+t2
+s0
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app.dSYM
+t2
+s0
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/Info.plist
+t1278671821
+s618
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/PkgInfo
+t1278671821
+s8
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/iAdKiller.dylib
+t2
+s0
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.dylib.LinkFileList
+c000000004C36FBCC00000000000000FB
+t1278671820
+s251
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.o
+t2
+s0
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/main.o
+t1278671823
+s6296
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch
+c000000004C36DC8400000000000000BB
+t1278663812
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/libsubstrate.dylib
+c000000004AF0C0870000000000006F40
+t1257291911
+s28480
+
+N/Users/_X_/Dropbox/Coding/iAdKiller/main.m
+c000000004C36DC5400000000000000E7
+t1278663764
+s231
+i<UIKit/UIKit.h>
+
+N/var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch.gch
+t1278671822
+s15232016
+
+NiAdKiller-Info.plist
+c000000004AB175980000000000000370
+t1253143960
+s880
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300364620#300364620#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.o /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300364622.810827
+e300364623.011523
+r0
+xCompileC
+xbuild/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.o
+x/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m: In function 'FirewallInitialize':
+o/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: 'testCurrentBundleIdentifier' undeclared (first use in this function)
+o/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: (Each undeclared identifier is reported only once
+o/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: for each function it appears in.)
+o{standard input}:115:non-relocatable subtraction expression, "L_orig_UIApplicationMain$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:115:symbol: "L_orig_UIApplicationMain$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:100:non-relocatable subtraction expression, "_orig_init" minus "L00000000002$pb"
+o{standard input}:100:symbol: "_orig_init" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_orig_UIApplicationMain$non_lazy_ptr
+lSLF07#2@63"Compile /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m300364622#300364623#0(1260"/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m: In function 'FirewallInitialize':/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: 'testCurrentBundleIdentifier' undeclared (first use in this function)/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: (Each undeclared identifier is reported only once/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m:37: error: for each function it appears in.){standard input}:115:non-relocatable subtraction expression, "L_orig_UIApplicationMain$non_lazy_ptr" minus "L00000000002$pb"{standard input}:115:symbol: "L_orig_UIApplicationMain$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:100:non-relocatable subtraction expression, "_orig_init" minus "L00000000002$pb"{standard input}:100:symbol: "_orig_init" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_orig_UIApplicationMain$non_lazy_ptr1(4@69"'testCurrentBundleIdentifier' undeclared (first use in this function)300364622#91#137#0(6@55"/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m300364620#37#0#37#0#43"'*' undeclared (first use in this function)0(0#0#55"/Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m8615947360#1950"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources/i386 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/Classes/iAdKiller.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/iAdKiller.o1#
+
+CCompileC build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/main.o /Users/_X_/Dropbox/Coding/iAdKiller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300364622.809300
+e300364623.011847
+r1
+xCompileC
+xbuild/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/main.o
+x/Users/_X_/Dropbox/Coding/iAdKiller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/_X_/Dropbox/Coding/iAdKiller/main.m300364622#300364623#0(0"0(0#0#42"/Users/_X_/Dropbox/Coding/iAdKiller/main.m8600918400#1932"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources/i386 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources -include /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch -c /Users/_X_/Dropbox/Coding/iAdKiller/main.m -o /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app.dSYM /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/iAdKiller.dylib
+r0
+
+CLd /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/iAdKiller.dylib normal i386
+r0
+
+CProcessInfoPlistFile /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/Info.plist iAdKiller-Info.plist
+s300364621.000285
+e300364621.034264
+r1
+xProcessInfoPlistFile
+x/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/Info.plist
+xiAdKiller-Info.plist
+lSLF07#2@28"Process iAdKiller-Info.plist300364621#300364621#0(0"0(0#0#56"/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller-Info.plist32370056120631408#488"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iAdKiller-Info.plist -genpkginfo /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app/Info.plist0#
+
+CProcessPCH /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch.gch iAdKiller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300364621.034443
+e300364622.809039
+r1
+xProcessPCH
+x/var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch.gch
+xiAdKiller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iAdKiller_Prefix.pch300364621#300364622#0(0"0(0#0#56"/Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch6877671097297882112#1825"    cd /Users/_X_/Dropbox/Coding/iAdKiller    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-generated-files.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-own-target-headers.hmap -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-all-target-headers.hmap -iquote /Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/iAdKiller.dylib-project-headers.hmap -F/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator -I/Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/include -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources/i386 -I/Users/_X_/Dropbox/Coding/iAdKiller/build/iAdKiller.build/Debug-iphonesimulator/iAdKiller.build/DerivedSources -c /Users/_X_/Dropbox/Coding/iAdKiller/iAdKiller_Prefix.pch -o /var/folders/69/69jWKXzNEli+e0YeISsBvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAdKiller_Prefix-fjnayilzsrnvpxddmcrsjvdigavu/iAdKiller_Prefix.pch.gch0#
+
+CTouch /Users/_X_/Dropbox/Coding/iAdKiller/build/Debug-iphonesimulator/iAdKiller.dylib.app
+r0
+
